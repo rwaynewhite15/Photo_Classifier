@@ -1,5 +1,8 @@
 # Image Classifier Web App
 
+![](C:\PYTHON\Photo_Classifier\demo_images\WIN_20240824_16_02_30_Pro.jpg)
+
+
 This project is a web application that classifies images into one of ten categories using a pre-trained neural network model. The app is built with [Taipy](https://taipy.io/), a GUI framework, and utilizes a TensorFlow Keras model for image classification.
 
 ## Features
